@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ArfanHorizon/artawa.git/static/css/main.baeee266.css",
+    "main.js": "/ArfanHorizon/artawa.git/static/js/main.da4f0c42.js",
+    "static/js/453.eb9a0a54.chunk.js": "/ArfanHorizon/artawa.git/static/js/453.eb9a0a54.chunk.js",
+    "index.html": "/ArfanHorizon/artawa.git/index.html",
+    "main.baeee266.css.map": "/ArfanHorizon/artawa.git/static/css/main.baeee266.css.map",
+    "main.da4f0c42.js.map": "/ArfanHorizon/artawa.git/static/js/main.da4f0c42.js.map",
+    "453.eb9a0a54.chunk.js.map": "/ArfanHorizon/artawa.git/static/js/453.eb9a0a54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baeee266.css",
+    "static/js/main.da4f0c42.js"
+  ]
+}
