@@ -68,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# artawa
+
+Website PT. Artawa Indonesia, Mitra EPC terpercaya Anda sejak 1995, didukung oleh DENTETSU SHOJI CO.,LTD

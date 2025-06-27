@@ -54,7 +54,7 @@ const [isMenuOpen, setIsMenuOpen] = useState(false);
                 }
             });
         };
-    }, []); // Efek ini hanya berjalan sekali saat komponen di-mount
+    }, [navLinks]); // Efek ini hanya berjalan sekali saat komponen di-mount
 
     return (
         <header className="sticky top-0 z-50" style={{backgroundImage: "url('https://placehold.co/1920x1080/1a1a1a/ffffff?text=PT+Artawa+Indonesia')"}}>
